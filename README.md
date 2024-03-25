@@ -1,5 +1,8 @@
 # Sentiment-Analysis-Support-Vector-Machine
 
+![planes-airport-ap-jt-200310_hpMain_16x9_1600](https://github.com/ajoshi222/Sentiment-Analysis-Support-Vector-Machine/assets/69758727/adb08182-7c53-411e-b983-aa994569d78c)
+
+
 <h1>Problem Statement</h1>
 <h2>Objective</h2>
 
